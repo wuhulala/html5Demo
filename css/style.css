@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  background: #ee9ca7;
+  background: #00ffff;
 }
 
 #cake {
@@ -161,6 +161,7 @@ body {
 .text h2 {
    font-size: 1.5em;
    text-align: right;
+   margin:20px;
 }
 
 .text2 {
